@@ -1,2 +1,2 @@
-# TEST JAVA PROJECTS #
-Just a repo for me to post some java projects I've been working on
+# CESAR SHIFT #
+A quick Cesar Shift project I made based on online tutorials and my own research.
